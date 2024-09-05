@@ -1,5 +1,5 @@
 # woocommerce-amoun-saving
 
 
-## This code add an dcalculate saving amount to product cards
+## This code add and calculate saving amount to product cards
 Add this code to <code>functions.php</code>
